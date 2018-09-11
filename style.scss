@@ -18,10 +18,11 @@ html {
 }
 
 body {
-	background: $white;
+	 background-image: url("http://cdn.wonderfulengineering.com/wp-content/uploads/2014/09/Purple-wallpaper-35.jpg");
   font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  color: #003399;
 }
+
 
 .container {
   margin: 0 auto;
@@ -84,6 +85,28 @@ ul, ol {
 
 ul {
   list-style-type: disc;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table, th, td {
+	border: 2px solid black;
+}
+
+td{
+	color: #ffffff;
+	background: #233227;
+	vertical-align: middle; 
+	padding: 8px;
+}
+
+th{
+	color: #eac67a;
+	background: #18121e;
+	height:50px;
+	vertical-align: middle;
 }
 
 ol {
