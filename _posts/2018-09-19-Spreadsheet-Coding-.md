@@ -58,7 +58,6 @@ published: true
   </tr>
   <tr>
     <th>What could have gone better in your learning?</th>
-    <td></td>
   </tr>
   <tr>
     <td>Because of the slow start to the lesson, there was a few more columns of potential ciphertext that I could have changed my code to take advantage of  but apart from expanding on my already existing code, there was not a lot I could improve on.</td>
