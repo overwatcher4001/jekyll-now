@@ -8,9 +8,9 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <th>Title</th>
     <td>Reverse Cipher</td>
-    <td>Date</td>
+    <th>Date</th>
     <td>26/09/18</td>
   </tr>
 </table>
@@ -18,15 +18,15 @@ published: true
 
 <table>
   <tr>
-    <td>Starting point:</td>
+    <th>Starting point:</th>
     <td>I have a google sheets that ciphers a given message.</td>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
+    <th>Target for this lesson?</th>
     <td>To create something that decrypts a ciphered message.</td>
   </tr>
   <tr>
-    <td>Did I reach my target? </td>
+    <th>Did I reach my target? </th>
     <td>While I did not achieve my target in the lesson, I sort of have for homework</td>
   </tr>
 </table>
@@ -34,27 +34,27 @@ published: true
 
 <table>
   <tr>
-    <td>How did you use your learning habits this week?</td>
+    <th>How did you use your learning habits this week?</th>
     <td></td>
   </tr>
   <tr>
-    <td>Persevering</td>
+    <th>Persevering</th>
     <td>I did not give up trying after the lesson ended but continued afterwards</td>
   </tr>
   <tr>
-    <td>Questioning?</td>
+    <th>Questioning?</th>
     <td>I had to continually work with my partner and come up with answers to my own questions.</td>
   </tr>
   <tr>
-    <td>Independence</td>
+    <th>Independence</th>
     <td>Although I worked with my partner in the lesson, I did not at home</td>
   </tr>
   <tr>
-    <td>Reflecting</td>
+    <th>Reflecting</th>
     <td>Even though I could not work out how decrypt messages, I have created an alternate solution.</td>
   </tr>
   <tr>
-    <td>Engagement</td>
+    <th>Engagement</th>
     <td>I was very engaged and determined to make this work.</td>
   </tr>
 </table>
@@ -62,20 +62,16 @@ published: true
 
 <table>
   <tr>
-    <td>What could have gone better in your learning?</td>
-    <td></td>
+    <th>What could have gone better in your learning?</th>
   </tr>
   <tr>
     <td>If me and my partner (and ideally some others) had worked together in a better way, and figured out the problems in our way faster, we probably would have come to some code that works in what we were trying to do.</td>
-    <td></td>
   </tr>
   <tr>
-    <td>What changes do you need to make to improve your learning next time?</td>
-    <td></td>
+    <th>What changes do you need to make to improve your learning next time?</th>
   </tr>
   <tr>
     <td>Although we will be doing something different next week, and it is likely that we won't be working with the person next to me, if we are, then I will need to be better at working together with my partner, as that would get important things done quicker and better.</td>
-    <td></td>
   </tr>
 </table>
 
